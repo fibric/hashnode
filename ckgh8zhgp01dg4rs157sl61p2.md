@@ -8,7 +8,8 @@ How I came to create my own theme [Nova](https://nova.app).
 
 Not too long ago, Panic introduced Nova that follows Coda but is not a new infusion; instead, it is an entirely new developed editor.
 
-![Nova.app welcome screen](https://cdn.hashnode.com/res/hashnode/image/upload/v1602940296388/jcFYv4ex1.gif)
+![Nova.app welcome screen](https://cdn.hashnode.com/res/hashnode/image/upload/v1603183329716/FqUARhr9c.gif)
+
 Nova is a native macOS app, and as such, boots very quickly, almost as fast as Sublime Text. Nova is also very light on memory usage compatible with Sublime Text.
 
 Nova looks promising, and after reading the documentation [Library](https://library.panic.com/nova/) and also briefly checked out the [Extension Library](https://docs.nova.app), I decided to give Nova a try.
@@ -117,7 +118,7 @@ Polis has a logo that I created in Figma.
 
 Within the project, I defined two custom tasks and three steps.
 
-![A short video showing the execution of custom tasks](https://cdn.hashnode.com/res/hashnode/image/upload/v1603142171969/9_qHBOgCe.gif)
+![A short video showing the execution of custom tasks](https://cdn.hashnode.com/res/hashnode/image/upload/v1603183218856/rqmBX8I9l.gif)
 
 - Tasks `Prepare Environment`
     - `Build`-Step - Installs Stylus if `yarn` and `node` is found. Tells you to install both `node` and `yarn` if not found.

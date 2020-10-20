@@ -1,4 +1,4 @@
-## How I created Polis - a theme for Nova.app
+## How I created Polis - a theme for Nova
 
 How I came to create my own theme [Nova](https://nova.app).
 

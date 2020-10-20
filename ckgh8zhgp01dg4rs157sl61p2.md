@@ -4,7 +4,7 @@ How I came to create my own theme [Nova](https://nova.app).
 
 > A color scheme that is easy on the eyes by day and night.
 
-### Nova.app by Panic - creators of Firwatch (game), Transmit (FTP), and Coda (editor)
+### Nova.app by Panic - creators of Firewatch (game), Transmit (FTP), and Coda (editor)
 
 Not too long ago, Panic introduced Nova that follows Coda but is not a new infusion; instead, it is an entirely new developed editor.
 

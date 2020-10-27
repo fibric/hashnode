@@ -173,14 +173,6 @@ I host the project source code on GitLab under the permissive MIT license. Fork 
     ![Polis colors used in iTerm2](https://cdn.hashnode.com/res/hashnode/image/upload/v1603014997551/84IDer8Ha.png)
 - Polis for Typora should also be no problem since Typora uses [CSS](http://theme.typora.io/doc/Write-Custom-Theme/) too.
 
-### Kudos
-
-Polis's `README.me` is heavily inspired by:
-
-%[https://github.com/tjkohli/Nebula.novaextension]
-
-— Kudos to TJ Kohli.
-
 </br>
 
 -----
